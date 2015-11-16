@@ -19,7 +19,7 @@ AHLayout is mainly an helper factory to simply generate NSLayoutConstraints. Cle
 
   s.platform     = :ios, "8.0"
 
-  s.source       = { :git => "https://github.com/adhumi/AHLayout", :tag => "0.1.0" }
+  s.source       = { :git => "https://github.com/adhumi/AHLayout.git", :tag => "0.1.0" }
 
   s.source_files = 'Source/*.swift'
   s.requires_arc = true
